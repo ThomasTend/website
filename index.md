@@ -6,7 +6,7 @@ For a full curriculum vitae, see [cv](./doc/CV - Thomas Tendron.pdf){:target="_b
 
 ### Research
 
-I have a broad interest in probability theory and related partial differential equations. I study theoretical models of random phenomena. Such models are often motivated by problems in population genetics, in statistical physics, and increasingly in machine learning. Some questions which arise frequently concern the long-time behaviour of stochastic processes viewed at different scales, the transitions between the microscopic and macroscopic pictures, and the universality of the limits.
+I study theoretical models of random phenomena using tools from probability theory and partial differential equations. Such models are often motivated by problems in population genetics, in statistical physics, and increasingly in machine learning. Some questions which arise frequently concern the long-time behaviour of stochastic processes viewed at different scales, the transitions between the microscopic and macroscopic pictures, and the universality of the limits.
 
 ### Publications
 
