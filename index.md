@@ -10,7 +10,7 @@ I study theoretical models of random phenomena using tools from probability theo
 
 ### Publications
 
-1. L. Addario-Berry, J. Lin, T. Tendron, (2020) Barycentric Brownian Bees, *Annals of Applied Probability*, to appear, [AAP](https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/)
+1. L. Addario-Berry, J. Lin, T. Tendron, (2021) Barycentric Brownian Bees, *Annals of Applied Probability*, to appear, [AAP](https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/)
 
 ### Contact
 
